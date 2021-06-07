@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AlmacenamientoTargetaSD</string>
+    <string name="titulo">TiTulo</string>
+    <string name="btn_guardar">Guardar</string>
+    <string name="btn_buscar">Buscar</string>
+
+</resources>
